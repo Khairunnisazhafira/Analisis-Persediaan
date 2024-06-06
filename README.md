@@ -9,26 +9,7 @@
 ![Figure_1](https://github.com/Khairunnisazhafira/Analisis-Persediaan/assets/152596345/bca476b5-4e51-4264-9ac3-ded0f603c6d4)
 
 ## LANGKAH-LANGKAH ANALISIS ##
-Tabel
-+----+-----------+--------------+-------------------+---------------+---------+-----------------------+
-| No | Kode Item | Nama Barang  | Jumlah di Catatan | Jumlah Aktual | Selisih | Keterangan            |
-+----+-----------+--------------+-------------------+---------------+---------+-----------------------+
-| 1  | A001      | Pulpen Biru  | 150               | 145           | -5      | Barang hilang         |
-| 2  | A002      | Buku Tulis   | 200               | 205           | 5       | Ada barang tambahan   |
-| 3  | A003      | Penghapus    | 100               | 100           | 0       | Persediaan sesuai     |
-| 4  | A004      | Pensil 2B    | 120               | 115           | -5      | Barang rusak/hilang   |
-| 5  | A005      | Stapler      | 50                | 50            | 0       | Persediaan sesuai     |
-+----+-----------+--------------+-------------------+---------------+---------+-----------------------+
 
-Penjelasan Kolom:
-* No: Nomor urut item.
-* Kode Item: Kode unik yang diberikan untuk setiap barang.
-* Nama Barang: Nama deskriptif dari barang.
-* Jumlah di Catatan: Jumlah persediaan barang berdasarkan catatan sebelumnya.
-* Jumlah Aktual: Jumlah persediaan barang berdasarkan hasil pengecekan fisik.
-* Selisih: Perbedaan antara jumlah di catatan dan jumlah aktual. Bisa positif atau negatif.
-* Keterangan: Penjelasan mengenai selisih yang terjadi, misalnya barang hilang, rusak, atau ditemukan barang tambahan.
-  
 Soal
 1. Berapa total jumlah selisih untuk semua barang?
 2. Dari data tersebut, tentukan barang apa saja yang mengalami kekurangan jumlah (selisih negatif) dan berapa total kekurangan tersebut.
